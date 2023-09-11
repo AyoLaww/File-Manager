@@ -4,9 +4,9 @@ import shutil
 
 img_ends = ['.png', '.jpg', '.JPG']
 document_ends = ['.txt', '.pdf', '.docx']
-executable_ends = ['.exe']
+executable_ends = ['.exe', '.msi']
 torrent_ends = ['.torrent']
-rar_ends = ['.rar', '.zip']
+rar_ends = ['.rar', '.zip', '.ISO']
 
 source_dir = "C:\\Users\HP\Downloads"
 image_dir = "C:\\Users\HP\Downloads\images"
